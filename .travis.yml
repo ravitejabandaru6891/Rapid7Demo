@@ -23,4 +23,4 @@ script:
 - sfdx force:org:display -u scratchorg
 - sfdx force:source:deploy --wait 10 -p 'force-app/main/default' --targetusername
   scratchorg  --testlevel 'NoTestRun' --checkonly
-- sfdx force:org:delete -u ciorg -p
+- sfdx force:org:delete -u scratchorg -p
