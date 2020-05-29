@@ -1,3 +1,5 @@
 public class Rapid7Demo{
-//System.debug('testing');
+    public void createData(){
+        System.debug('Test');
+    }
 }
