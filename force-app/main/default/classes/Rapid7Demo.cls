@@ -1,4 +1,3 @@
 public class Rapid7Demo{
-//System.debug('testing');
-//system.debug('CD Testing');
+System.debug('testing');
 }
